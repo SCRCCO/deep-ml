@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T16:00:59.532Z",
+  "generated_at": "2026-11-05T12:42:22.387Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -100,6 +100,17 @@
       "last_pushed_at": "2026-11-03T16:00:58.694Z",
       "language": "python",
       "lines": 97
+    },
+    "math:412": {
+      "kind": "math",
+      "id": "412",
+      "title": "Condition Numbers: Why the Determinant Lies About Near-Singularity",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/412",
+      "path": "math/0412-condition-numbers-why-the-determinant-lies-about-near-singularity",
+      "first_solved_at": "2026-11-05T12:42:21.772Z",
+      "last_pushed_at": "2026-11-05T12:42:21.772Z"
     }
   }
 }

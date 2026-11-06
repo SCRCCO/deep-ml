@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 6 problems · 0 labs · 3 math
+**10** solved · 7 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-11-02 | [solution](problems/0083-dot-product-calculator) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-02 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-02 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-11-06 | [solution](problems/0334-cholesky-decomposition) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-02 | [solution](problems/0009-matrix-times-matrix) |
 | [Woodbury, Sherman-Morrison and the Determinant Lemma](https://www.deep-ml.com/problems/1774) | medium | 2026-11-03 | [solution](problems/1774-woodbury-sherman-morrison-and-the-determinant-lemma) |
 

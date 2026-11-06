@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T12:42:22.387Z",
+  "generated_at": "2026-11-06T09:35:16.563Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -111,6 +111,19 @@
       "path": "math/0412-condition-numbers-why-the-determinant-lies-about-near-singularity",
       "first_solved_at": "2026-11-05T12:42:21.772Z",
       "last_pushed_at": "2026-11-05T12:42:21.772Z"
+    },
+    "problem:334": {
+      "kind": "problem",
+      "id": "334",
+      "title": "Cholesky Decomposition",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/334",
+      "path": "problems/0334-cholesky-decomposition",
+      "first_solved_at": "2026-11-06T09:35:15.848Z",
+      "last_pushed_at": "2026-11-06T09:35:15.848Z",
+      "language": "python",
+      "lines": 70
     }
   }
 }
